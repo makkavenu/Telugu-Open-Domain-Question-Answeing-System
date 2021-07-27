@@ -1,0 +1,300 @@
+[PER] Who is the author of 'Adventures of Tom Sawyer'? Mark Twain
+[PER] Who is the author of 'Kavya Narthaki'?  Changampuzha Krishna Pillai
+[PER] Who is the author of 'Don Juan'? Lord Byron
+[PER] Who invented the electric battery? Volta
+[PER] Who is the author of Dr. Faust? Christopher Marlowe
+[PER] Who is considered the father of Colombia? Simon Bolivar
+[PER] Who is the author of 'August Coop'? Mikhail Gorbachev
+[PER] Who is the author of "A Hindu View of Life"? Dr. Sarvepalli Radhakrishnan
+[PER] Who is the author of 'Three Sisters'? Anton Chekhov
+[PER] Who is the author of 'Malini'? Kumaranasan
+[PER] Who is known as the 'Father of DNA Fingerprinting'? Sir Alec Jeffries
+[PER] Who is the author of "The Social Contract"? Rousseau
+[PER] Who is the author of 'Mother India'? Katherine Mayo
+[PER] Who is the author of 'Comedy of Eros'? Shakespeare
+[PER] Who is the author of 'Death Under Sail'? C.P. Snow
+[PER] Who is the author of 'A Billion Is Enough'? Ashok Gupta
+[PER] By whom was the monstrosity of Monte Casino founded? St. Benedict
+[PER] Who is the author of 'Yama'? Mahadevi varma
+[PER] Who is the author of 'Area of Darkness'? VS Napal
+[PER] Who is the author of 'Astiude Pookal'? Professor S. Guptan
+[PER] Who is the author of 'Beauty and the Revolution'? James William McAllister
+[PER] Who is the inventor of atomic numbers? Henry Moseley
+[PER] Who is the author of 'India Wins Freedom'? Maulana Abul Kalam Azad
+[PER] Who is the author of Yayati? VS Khandekar
+[PER] Who is the author of Ganadevata? Tarasankar Bandopadhyay
+[PER] Who invented the measles vaccine? Maurice Hilleman
+[PER] Who is the author of Apple Cart? George Bernard Shaw
+[PER] Who is the author of “For Home the Bell Tolls”? Ernest Hemingway
+[PER] By whom was Zoroastrianism (Persian religion) founded? Joratushtrar
+[PER] Who is the author of 'India of Our Dreams'?  kevaikamat
+[PER] Who is the author of 'Poverty and Feminine'? Amartya Sen.
+[PER] "David Copperfield;" Who is the creator of the famous character '? Charles Dickens
+[PER] Who is the author of 'Paradise Lost'? John Milton
+[PER] Which Kerala Chief Minister has ruled for a long time? ikenayanar
+[PER] Who is the author of "Two Lives"? Vikram Seth
+[PER] Who is the author of 'Women's Heart'? Balamani Amma
+[PER] Who is the author of 'Silent Women'? Ben Johnson
+[PER] Who is the author of 'Indian Summers'? John Wright
+[PER] Which Travancore king was the first to set up an engineering department? Swathi Thirunal
+[PER] Who is the author of 'My Country My Life'? Lal Krishna Advani
+[PER] Who is the author of the Malayalam novel 'Indulekha'? O. Chandu Menon
+[PER] Who is the author of Vinaya magazine? Tulsi Das
+[PER] Who is the author of “Time Machine”? HG Wells
+[PER] Who is the author of We Need to Talk About Kevin? Lionel Shriver
+[PER] 'The general theory of employment; Interest money 'was created by whom? John Maynard Keynes
+[PER] Who is known as the father of Malayalam cinema? Jesse Daniel
+[PER] Who is the author of 'The Last Mughal'? William Dalrymple
+[PER] Who is the author of 'Broken Wing'? Sarojini Naidu
+[PER] Who is the author of 'Red Star Over China'? Edgar Snow
+[PER] Who is the author of 'Krishnakavitakal'? Sugatakumari
+[LOC] Where is Payambalam Beach? Kannur
+[LOC] What is known as the Sick Man of Europe? Turkey
+[LOC] Where is the largest stadium? Strahov
+[LOC] Which is the capital of Sweden? Stockholm
+[LOC] Where is the Indian Institute of Petroleum located? Dehradun
+[LOC] Which city is also known as the City of Seven Hills? Rome
+[LOC] Where is UNIDO headquartered? Vienna
+[LOC] Where are the Athirapally and Vajchal waterfalls located? Thrissur District
+[LOC] Which place in the desert is called a garden? Ethiopia
+[LOC] Which is the birthplace of the great Mappila poet Moinkutti Vaidar? Condotti
+[LOC] What is the birthplace of Ayyankali? Venganur
+[LOC] Which was the first country in the field of colonialism? Portugal
+[LOC] Where was the World's Second Earth Summit (2002) held? Johannesburg
+[LOC] Ken Sarah Viva, a poet and human rights activist hanged by the government for her unconventional views, hails from which place? Nigeria
+[LOC] Where was the body cremated after the death of Vasco da Gama on 29 December 1524? St. Francis Church
+[LOC] Where in Kavas is the procession held as part of the festivities? Central Malabar
+[LOC] Wars of Punic between Rome and others? Carthage
+[LOC] Which is the capital of Vietnam? Hanoi
+[LOC] Where is the Central Institute of Medicinal and Aromatic Plants located? Lucknow
+[LOC] Which district has the largest number of rivers? Kasaragod
+[LOC] Which is the capital of Turkmenistan? Ashkabad
+[LOC] Where is the Mask Dance Kummatikali popular? South Malabar
+[LOC] Where is Thekkady, a popular tourist destination? Idukki
+[LOC] Which small island was discovered by Columbus in 1492? Watlings
+[LOC] Which is the capital of Togo? Lom
+[LOC] Where is the Livestock Research Institute? Hisar
+[LOC] The capital of Sao Tome and Principe? Sao Tome
+[LOC] Where is the School of Foreign Languages located? New Delhi.
+[LOC] Which is the capital of India? New Delhi
+[LOC] Where does the Nayyar River originate from? Agastimala
+[LOC] Where is the only cantonment in Kerala? Kannur
+[LOC] Where is Oil Palm India Limited located? Kottayam
+[LOC] Where did Princess Diana die in a car accident? Paris
+[LOC] Which is the 100% urbanized city in the world? Singapore
+[LOC] Where is the largest natural harbor in India? Visakhapatnam
+[LOC] Where is Jetayu Para?  Chadayamangalam
+[LOC] Which is the darkest continent? Africa
+[LOC] Which is the smallest state in India? Goa
+[LOC] Which is the smallest Union Territory in India? Lakshadweep
+[LOC] Which place is also known as Vatican of Nair Community? Perunna
+[LOC] Where was Shankaracharya, a Namboodiri Brahmin, born? Kaladi
+[LOC] Where is the Central Salt and Marine Chemical Research Institute located? Bhavnagar
+[LOC] Which is the widest street in the world? Broadway St.
+[LOC] Which is the capital of Mali? Bamako
+[LOC] Justice M. Fatima Beavis became the Governor of which state after retirement? Tamil Nadu
+[LOC] Where did Tullai originate from? Ambalapula.
+[LOC] Where is ADB headquartered? Manila
+[LOC] Where is the famous tourist destination 'Panchalikkulam' located? Idukki District
+[LOC] Which is the capital of Lesotho? Maseru
+[LOC] Which is the largest state in India? Madhya Pradesh
+[ORG] Which is the highest court in China? The Supreme People's Court
+[ORG] Which was the first literary magazine of Kerala? Educational luxury
+[ORG] Which Vedic schools were associated with temples during the Kulasekhara period? Salise.
+[ORG] Which is one of the eight richest countries in the world? G-8
+[ORG] Which is the official publication of Kerala Sports Council? Vegetation
+[ORG] Which was the first Central Jail to be set up in Kerala? Kannur Central Jail
+[ORG] Which was the first cement factory in Kerala?  Natacom Travancore Cements
+[ORG] Which is the first private IT park in Kerala? The Muthoot Technopolis
+[ORG] Who presents the Kerala State Film Awards? Kerala State Film Academy
+[ORG] Which was the first English school in Kerala? Mattancherry School
+[ORG] Where is the largest refracting telescope in the world? Jerkys Observatory University of Illinois
+[ORG] Which is the first industrial park in India dedicated to electronics and IT ventures? టెక్ Technopark in Trivandrum
+[ORG] Which was the first college in Kerala? CMS College Kottayam
+[ORG] Which was known as the first Sanskrit newspaper? Vijnanachintamani
+[ORG] On what foundation did Versailles' deal lead? League of Nations
+[ORG] Lakshadweep Union Territory is under which High Court? Kerala High Court
+[ORG] Where was the Higgs boson found? Cern
+[ORG] Which organization was formed as a result of the 'Uruguay Round' talks? WTO
+[ORG] Which rock system has the highest concentration of minerals? Dharwar system
+[ORG] Which authority grants foreign exchange for the importation of goods? Reserve Bank of India
+[ORG] What kind of party system emerged in India? Multi-party
+[ORG] Which law made the Indian Legislative Assembly bicameral? Government of India Act -1919
+[ORG] Which body finalizes the Five Year Plan proposals? National Development Council
+[ORG] Which is the largest public sector bank in India? State Bank of India
+[ORG] Which Union Ministry is implementing the Biodiesel Mission (as the Nodal Ministry)? Ministry of Rural Development
+[ORG] Which banking sector has the largest public sector in India? Commercial banking
+[ORG] Which is the pinnacle of industrial economy in India? Industrial Development Bank of India
+[ORG] Who conducts elections for Panchayats and Municipalities? State Election Commission
+[ORG] Which industry in India employs the maximum number of workers? Textile industry
+[ORG] In which industry are the maximum working women in India? Tea industry
+[ORG] Which bank was first established in India? Bank of Hindustan
+[ORG] Pneumoconiosis mainly affects workers in which industry? Coal mining industry
+[ORG] Which public sector bank symbolizes the dog and the words 'loyal, friendly' in its logo? Syndicate Bank
+[ORG] Who gives recognition to a political party? By the Electoral Commission
+[ORG] Which is the oldest international airline? Dutch keelem
+[ORG] Which is the largest public sector undertaking in the country? Railway
+[ORG] By what name was the Indian Development Forum (IDF) formerly known? Aid India Consortium
+[ORG] Which was the first Indian-owned limited liability bank in India to be established in 1881? Oudh Commercial Bank
+[ORG] Which sector of the economy is publicly owned and its service sector is public sector? Irrigation
+[ORG] Which was the first limited liability bank in India to be operated by Indians and established in 1881? Oudh Commercial Bank
+[ORG] Which bank gives long term loans to farmers? Land Development Bank
+[ORG] Who determines the salaries of ministers in a state? State Legislature
+[ORG] Which place is famous as the center of Mahayana learning? Nalanda
+[ORG] Which banker is the banker? RBI
+[ORG] Any bank can withdraw up to Rs. Prints 100? Banknote Press (Dewas)
+[ORG] Which industry uses mica? Electrical industry
+[ORG] Which rock system has the highest concentration of minerals? Dharwar system
+[ORG] Who grants foreign exchange for the importation of goods? Reserve Bank of India
+[ORG] What kind of party system emerged in India? Multi-party
+[ORG] Funds belonging to the Government of India are kept in which fund? Consolidated Fund of India
+[DAT]In which year was the Marathon War fought? 90 490 BC
+[DAT] When was the rights petition approved by the British Parliament? 1628
+[DAT]In which year did Robert Walpole become the Prime Minister of England? 1721
+[DAT]When did the first women's police station in Kozhikode start functioning? 27-Oct-73
+[DAT]In which year was Charles I, the ruler of England, publicly beheaded? 1649
+[DAT] When did Pope John Paul II die? April 2, 2005
+[DAT] When was the Euro introduced as an accounting currency for global financial markets? 1 January 1999
+[DAT]In which year did the Government of India officially launch the Pulse Polio Campaign? 1994
+[DAT]In which year did Julius Caesar conquer England? 55 BC
+[DAT]In which year was Napoleon Bonaparte born? 1769
+[DAT] When did Nepal celebrate its first Republic Day? 28-May-08
+[DAT] When was the Kerala Language Institute established? 11-March-68
+[DAT] During which years did the American Civil War take place? 1861-1865
+[DAT] When was the world's first test tube baby Louis Brown born? 25 July 1978
+[DAT] In which period did the blind poet Homer live? BC 9th century
+[DAT] Travancore broadcasting station merged with All India Radio Network in which year? 1950
+[DAT]In which year was the National AIDS Control Agency established? 1992
+[DAT] When was the rolling plan concept adopted? 1977
+[DAT] Did the First World War take place during this period? 1914- 1918
+[DAT] On which day is the Nehru Trophy boat race held at Punnarnada Backwaters in Alappuzha? The second Saturday in August each year
+[DAT] When did Britain pass The Townshend Act in the American colonies? 1767
+[DAT] When was Isaac Newton born in England? 1642
+[DAT] When did Hitler and his wife Eva Brown commit suicide? 30-April-45
+[DAT]In which year did the Government of Kerala declare tourism as an industry? 1986
+[DAT] When did Japan surrender in World War II? September 2, 1945
+[DAT] When did the old secretariat complex start functioning? 23 August 1869
+[DAT] When did Hyder Ali conquer Bekal Fort? 1763
+[DAT] When did Japan's first constitution come into force? 1889
+[DAT] When was Isaac Newton born in England? 1642
+[DAT] When was the first time Kerala hosted the Santosh Trophy tournament? 1955
+[DAT] When did Princess Diana die in a car accident? 31 August 1997
+[DAT] When did Robert Walpole become Prime Minister of England? 1721
+[DAT] When did the Great Depression, one of the major outcomes of World War I, begin? 1929
+[DAT] When is World Computer Literacy Day celebrated? 2-Dec-16
+[DAT]In which year did Guru Narayana Guru perform the famous Aruvipuram Pavitram (Shiva)? 1888
+[DAT] When was Shakespeare born? 1564 AD
+[DAT] When did the atom bomb 'Fatman' land in Nagasaki? 9 August 1945
+[DAT] When was the Soviet German Non-Aggression Treaty signed? 23-Aug-39
+[DAT] As a result of the First Opium War, when did the province of China and Hong Kong come under British control? 1844
+[DAT] When was the Huzur Court established as the final court of appeal? 1814
+[DAT] In which year was the zip code system launched in Kerala? 1972
+[DAT] When did the peasant uprising take place in England? 1381
+[DAT] When did the Italian (Venetian) traveler Marco Polo arrive in Kerala? AD 1292
+[DAT] In which year was slavery abolished in America? 1865
+[DAT] In which year was the first ATM system launched in London? 1967
+[DAT] In which year was Israel formed in Palestine? 1948
+[DAT]In which year was the Kozhikode radio station launched? 1950
+[DAT] When did Amerigo Vespucci reach the South American coast? 1499
+[DAT]In which year was the Travancore High Court established? 1887
+[DAT] Pedro Alvarez Cabral arrived in Cochin on which date? 24 December 1500
+[CAR] What is the total number of bones in the human skull?  29
+[CAR] How many red blood cells are there in the blood? 5,000,000 / cc blood
+[CAR] What is the number of chambers in the heart of a reptile? 3
+[CAR] What is the number of chambers in the bird's nest? Four
+[CAR] How many countries have signed the UN Charter in San Francisco? 50
+[CAR] How many times a minute does the heart beat in adults? 72
+[CAR] What is the number of member states of OPEC? 11
+[CAR] How many gigabytes is 1 terabyte? 1024
+[CAR] What is the total number of fear bones? Six
+[CAR] What is the number of chambers in the heart of a reptile? Three
+[CAR] Which rank is India in the Gender Equality Index published in 2011? 129
+[CAR] AK How many members of the Gopalan-led Pattini caste were involved? 32
+[CAR] How many times a minute does the heart beat in adults? 72
+[CAR] What is the approximate number of bones in a newborn? 300
+[CAR] If the mass of a moving body is doubled, what happens to its kinetic energy? Doubling
+[CAR] What is the force of an object on the ground? Zero
+[CAR] What range does the projectile reach when the projection angle is at a maximum? 450
+[CAR] What is the viscosity of an ideal fluid? Zero
+[CAR] What is the weight of a body that falls freely? Zero
+[CAR] What is the acceleration due to gravity at the center of the earth? Zero
+[CAR] What is the water refractive index ? 1.33
+[CAR] What is the refractive index of a vacuum?  1
+[CAR] What is the refractive index of ice? 1.31
+[CAR] What is the refractive index of a diamond ? 2.417
+[CAR] What happens to potential energy when the height of the body doubles from the ground? Energy also doubles
+[CAR] What is the energy of the body on earth? Zero
+[CAR] If the diameter of the capillary is doubled, how much water will increase in the capillary? half
+[CAR] What is the force of gravity on a body placed in the center of the earth? Zero
+[CAR] What is the maximum range of the projectile when the angle of projection is? 450
+[CAR] What is the equivalent temperature on the Celsius scale and the Fahrenheit scale? -40
+[CAR] What is the conductivity of an internal semiconductor at absolute zero? 0
+[CAR] What is the speed of sound in a vacuum (in your / s)? 0
+[CAR] What is the weight of an object at the center of the earth? 0
+[CAR] What do people sitting on Earth's satellite have? 0 weight
+[CAR] What is the number of atoms in a phosphorus molecule? 4
+[CAR] What is the number of atoms in a sulfur atom? 8
+[CAR] How many chambers are found in the heart of a fish? Two rooms
+[CAR] How many bones are there in the spinal cord? 33 bones
+[CAR] What is the average heart rate in the human body per minute? 72
+[CAR] How many bones are there in a human body? 206
+[CAR] Number of spinal nerves in man? 31 pairs
+[CAR] How many cranial nerves are there in a human? 12 pairs
+[CAR] How many zip code zones are there in the country? 8
+[CAR] What is the maximum strength of the nominated members in both Houses of Parliament? 14
+[CAR] After how many years can one-third of the members of the Rajya Sabha retire? 2
+[CAR] Who are the Ashta-giants in the court of Krishnadevaraya? Eight Telugu poets
+[CAR] How many rings are on the Olympic flag? Five
+[CAR] How many times has a national emergency been declared? Three times
+[CAR] At what level does sound become hazardous noise pollution? Above 80 dB
+[CAR] Anglo-Indian representatives in the Lok Sabha are nominated by which article? 331
+[CUR] Turkish currency? Turkish lira
+[CUR] Which is the Ethiopian currency? Birr
+[CUR] What is the currency of Chile? peso
+[CUR] What is the currency of Mozambique? Metical
+[CUR] What is the currency of Finland? Mark
+[CUR] What is the currency of Panama? Balboa
+[CUR] What is the currency of Russia? Ruble
+[CUR] Which is the official currency of the European Union? Euro
+[CUR] What is the Swedish currency? Krona
+[CUR] What is the currency of Albania? Lake
+[CUR] Which is the El Salvador currency? Colon
+[CUR] What is the Dutch currency? Euro
+[CUR] What is the Sudanese currency? Sudanese pound
+[CUR] What is the currency of Papua New Guinea? Kina
+[CUR] What is the currency of Czechoslovakia? koruna
+[CUR] What is the currency of Turkey? Turkish lira
+[CUR] What is the German currency (United)? Deutsche Mark
+[CUR] What is the currency of Malaysia? Malaysian Dollar
+[CUR] What is the Kuwaiti currency? Kuwaiti Dinar
+[CUR] What is the currency of Peru? Inti Soul
+[CUR] What is the Greek currency? Drachma
+[CUR] What is the currency of Lebanon? pound
+[CUR] What is the currency of Venezuela? Bolivar
+[CUR] What is the currency of Iran? Rial
+[CUR] What is the currency of Israel? New Shekel
+[CUR] What is the currency of Chile? peso
+[CUR] What is the currency of Salvador? Colon
+[CUR] What is the British currency? pound
+[CUR] What is the currency of Mongolia? Tugrick
+[CUR] What is the Andorra currency? French Frank
+[CUR] Indian currency is linked to which currency for international payments? American Dollar
+[CUR] What is the Austrian currency? Shilling
+[CUR] What is the highest value of currency notes currently in legal tender in India? Rs. 1000
+[CUR] for international payments; Indian currency is associated with which currency? American Dollar
+[CUR] How much annual funding has the Maharashtra Cabinet approved for juvenile homes in the state? Rs 2 crore
+[CUR] How much investment has the central government recently cleared in stuck residential properties? Rs 540 crore
+[CUR] What is the service cost under the newly launched Janasevaka scheme? Rs. 115
+[CUR] Under PMMVY, how much money is paid to pregnant women and nursing mothers for the first living child of the family? Rs.5,000
+[CUR] What is the value of the largest single foreign currency loan recently signed by NTPC? 750-million-dollar
+[CUR] Which new coin was minted by Britain to mark the departure of the country from Brexit? 50 pence
+[CUR] How much did Punjab approve for the revival of Buda Nalla? Rs.650 crore
+[CUR] How much did Exim Bank raise through the sale of foreign bonds to carry out regular operations? 1 billion
+[CUR] How much credit did India give to Cuba for financing solar parks? USD 75 million
+[CUR] How many long-term government securities has RBI recently acquired? Rs.50,000 crores
+[CUR] How many trillions is the Government of India expected to increase the turnover of khadi and village industries in the next five years? Rs 2 trillion
+[CUR] How many trillions is the Government of India expected to increase the turnover of khadi and village industries in the next five years? Rs 2 trillion
+[CUR] What is Financed Currency? Euro
+[CUR] How much valuable funding has been allocated under the Mahatma Gandhi National Rural Employment Guarantee Scheme for the current financial year 2020-2021? 1,01,500
+[CUR] How much funding has the Government of India approved for the implementation of JJM in Maharashtra during 2020-21? 1,8292 crores
+[CUR] Gavi - How many dollars has India pledged to donate to the Global Alliance for Vaccines and Immunization? USD 15 million
